@@ -6,12 +6,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f583df49-f303-4329-a24b-0642b9fd1b0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmail.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmail.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ExternalLogin.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ExternalLogin.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ExternalLogin.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ExternalLogin.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ForgotPassword.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ForgotPassword.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ForgotPassword.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ForgotPassword.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWith2fa.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWith2fa.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Logout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Logout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Logout.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Logout.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Email.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Email.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Email.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Email.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPassword.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPassword.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPassword.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPassword.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Views/Shared/_LoginPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Views/Shared/_LoginPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +85,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.CustomerScaffold">
     <configuration name="CustomerScaffold" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CustomerScaffold/CustomerScaffold.csproj" />
@@ -79,6 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673683502480</updated>
       <workItem from="1673683515449" duration="276000" />
+      <workItem from="1673684139801" duration="158000" />
     </task>
     <servers />
   </component>
