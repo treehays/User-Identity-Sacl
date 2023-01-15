@@ -2,6 +2,7 @@ using CustomerScaffold.Data;
 using CustomerScaffold.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 

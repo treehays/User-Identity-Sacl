@@ -73,15 +73,7 @@ namespace CustomerScaffold.Areas.Identity.Pages.Account.Manage
             [Display(Name = "Profile Picture")]
             public byte[] ProfilePicture { get; set; }
 
-            //[TempData]
-            //public string StatusMessage { get; set; }
-          
-            /*[BindProperty]
-            public InputModel Input { get; set; }*/
-
-            //[Phone]
-            //[Display(Name = "Phone number")]
-            //public string PhoneNumber { get; set; }
+            
         }
 
         private async Task LoadAsync(ApplicationUser user)
