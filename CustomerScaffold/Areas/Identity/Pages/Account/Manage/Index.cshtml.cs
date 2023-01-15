@@ -18,9 +18,7 @@ namespace CustomerScaffold.Areas.Identity.Pages.Account.Manage
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
 
-        public IndexModel(
-            UserManager<ApplicationUser> userManager,
-            SignInManager<ApplicationUser> signInManager)
+        public IndexModel(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -45,6 +43,11 @@ namespace CustomerScaffold.Areas.Identity.Pages.Account.Manage
         /// </summary>
         [BindProperty]
         public InputModel Input { get; set; }
+        /// <summary>
+        /// checkin the no 
+        /// </summary>
+        [TempData]
+        public string UserNameChangeLimitMessage { get; set; }
 
         /// <summary>
         ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
@@ -70,12 +73,11 @@ namespace CustomerScaffold.Areas.Identity.Pages.Account.Manage
             [Display(Name = "Profile Picture")]
             public byte[] ProfilePicture { get; set; }
 
-            [TempData]
-            public string StatusMessage { get; set; }
-            [TempData]
-            public string UserNameChangeLimitMessage { get; set; }
-            [BindProperty]
-            public InputModel Input { get; set; }
+            //[TempData]
+            //public string StatusMessage { get; set; }
+          
+            /*[BindProperty]
+            public InputModel Input { get; set; }*/
 
             //[Phone]
             //[Display(Name = "Phone number")]
@@ -110,7 +112,7 @@ namespace CustomerScaffold.Areas.Identity.Pages.Account.Manage
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
             }
             
-           //UserNameChangeLimitMessage = $"You can change your username {user.UsernameChangeLimit} more time(s).";
+           UserNameChangeLimitMessage = $"You can change your username {user.UsernameChangeLimit} more time(s).";
 
             await LoadAsync(user);
             return Page();
