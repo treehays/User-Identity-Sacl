@@ -6,28 +6,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f583df49-f303-4329-a24b-0642b9fd1b0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/MySqlConnector.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomerScaffold/obj/CustomerScaffold.csproj.EntityFrameworkCore.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/3d883d87-b90b-44db-9ab0-2ec9a73781d1.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/58775310-24c9-4b5d-92b0-ecb60dd9c364.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/7adaf719-29d8-4b4b-ad5c-cddb46cdd008.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/d76142ff-c345-4487-9d5c-137b13c25288.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/33635340-3764-4fb3-bfb1-8a659089cd19.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/64678f22-d29a-4f08-b270-0a40c10fb809.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/eb5bf2d6-aac9-46a6-9eba-591b4358198a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/f9b3599b-7393-45ed-bb07-ca79fbfccc50.vsidx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Register.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/CustomerScaffold.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/CustomerScaffold.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Data/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114075428_first init.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114075428_first init.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114085642_latest.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114223350_hdf.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114085642_latest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Migrations/20230114223350_hdf.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/Models/ApplicationUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Models/ApplicationUser.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/CustomerScaffold.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/CustomerScaffold.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.FileListAbsolute.txt" afterDir="false" />
@@ -36,6 +41,9 @@
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/ref/CustomerScaffold.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/ref/CustomerScaffold.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/refint/CustomerScaffold.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/refint/CustomerScaffold.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +52,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3809c2ac30d545aca32743f43c25fd1da23480/0b/a4950bcb/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3809c2ac30d545aca32743f43c25fd1da23480/2b/4fb528e8/AsyncTaskMethodBuilder`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/86217d77616b4a0c8eeec296d933603518280/c6/af5b37b8/UserStore`9.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d28731731d7c419188a1d87fc776762929488/da/dc841d49/UserManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4ea681aa1df24442c1a5e1e18582b1a2d29ac5bfd41390c94a5d2cc958b5ff/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,23 +69,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Abdul\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Abdul\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Abdul\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Abdul\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Abdul\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Abdul\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.CustomerScaffold">
     <configuration name="CustomerScaffold" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CustomerScaffold/CustomerScaffold.csproj" />
@@ -116,7 +128,9 @@
       <updated>1673683502480</updated>
       <workItem from="1673683515449" duration="276000" />
       <workItem from="1673684139801" duration="235000" />
-      <workItem from="1673691048090" duration="1322000" />
+      <workItem from="1673691048090" duration="1979000" />
+      <workItem from="1673731597770" duration="4209000" />
+      <workItem from="1673737035432" duration="246000" />
     </task>
     <servers />
   </component>

@@ -19,7 +19,7 @@ namespace CustomerScaffold.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            builder.HasDefaultSchema("Identity");
+            //builder.HasDefaultSchema("Identity");
             builder.Entity<ApplicationUser>(entity =>
             {
                 entity.ToTable(name: "User");
