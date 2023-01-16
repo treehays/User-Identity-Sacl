@@ -6,18 +6,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f583df49-f303-4329-a24b-0642b9fd1b0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/ref/CustomerScaffold.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomerScaffold/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/bin/Debug/net6.0/CustomerScaffold.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/CustomerScaffold.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerScaffold/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/54432360-beee-4239-9637-2789b7de952b.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/99b84541-945a-4862-898c-484d5541737d.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/ab88de0e-79cb-493d-8da0-b96d7edcede0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/FileContentIndex/c13a28e9-f8d3-4384-8269-53db25524363.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CustomerScaffold/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.metadata.v5.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/customerscaffold.projects.v5.2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +23,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13c82bf97f06412d9e3d97a6a2d21ea66e4b0/16/45e7d965/PageModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0e4698e0a5084b519bdccd6709fed3bb1cbab0/61/249fe963/PropertyHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0e4698e0a5084b519bdccd6709fed3bb1cbab0/6f/481b0c59/PropertyActivator`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13c82bf97f06412d9e3d97a6a2d21ea66e4b0/16/45e7d965/PageModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13c82bf97f06412d9e3d97a6a2d21ea66e4b0/3d/e34c65c3/DefaultPageModelFactoryProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3809c2ac30d545aca32743f43c25fd1da23480/0b/a4950bcb/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3809c2ac30d545aca32743f43c25fd1da23480/2b/4fb528e8/AsyncTaskMethodBuilder`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/86217d77616b4a0c8eeec296d933603518280/c6/af5b37b8/UserStore`9.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ca98c280f35e40678feeffb850782bb286a80/0b/2915069c/MailAddress.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d28731731d7c419188a1d87fc776762929488/da/dc841d49/UserManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2e459be164a87e8ad29b291043284b1cf13b3f7fad65d670b6262171d1e53a45/LoggerT.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4ea681aa1df24442c1a5e1e18582b1a2d29ac5bfd41390c94a5d2cc958b5ff/UserManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6f014f3450cd40ef82e4f71146a47afd19ff3c53e3b5182cd307757bf7763/ModelStateDictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/53f9dfcdbc601f275fc07c274ee53474126a931e1efbebe98518e79789dfeba/Logger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6f014f3450cd40ef82e4f71146a47afd19ff3c53e3b5182cd307757bf7763/ModelStateDictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/70e0d6eff38fa285e8c6352b6a1f222383a76860368f37c0365c45c8835fc46a/LoggerInformation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a9ecb6d52b557236a55919b020756c8d58e9b4e8334a1129f6e388ec2e5d/PageActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e350ee2384a184e6b8d36e7e22555377c8c475e48aaeab23da8877e1a3b91cb/PageLoggerExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2KJCrLBrmWBPwW7iBmx0RSvZxw7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,6 +115,8 @@
       <workItem from="1673731597770" duration="4209000" />
       <workItem from="1673737035432" duration="246000" />
       <workItem from="1673826632904" duration="670000" />
+      <workItem from="1673837605772" duration="4479000" />
+      <workItem from="1673874532550" duration="1060000" />
     </task>
     <servers />
   </component>
@@ -130,63 +139,5 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Login.cshtml.cs</url>
-          <line>129</line>
-          <properties documentPath="C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\Areas\Identity\Pages\Account\Login.cshtml.cs" initialLine="129" containingFunctionPresentation="method 'OnPostAsync'">
-            <startOffsets>
-              <option value="5143" />
-            </startOffsets>
-            <endOffsets>
-              <option value="5175" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs</url>
-          <line>113</line>
-          <properties documentPath="C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\Areas\Identity\Pages\Account\Manage\Index.cshtml.cs" initialLine="113" containingFunctionPresentation="method 'OnPostAsync'">
-            <startOffsets>
-              <option value="4331" />
-            </startOffsets>
-            <endOffsets>
-              <option value="4332" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs</url>
-          <line>99</line>
-          <properties documentPath="C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\Areas\Identity\Pages\Account\Manage\Index.cshtml.cs" initialLine="99" containingFunctionPresentation="method 'OnGetAsync'">
-            <startOffsets>
-              <option value="3846" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3847" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CustomerScaffold/Areas/Identity/Pages/Account/Manage/Index.cshtml.cs</url>
-          <line>79</line>
-          <properties documentPath="C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\Areas\Identity\Pages\Account\Manage\Index.cshtml.cs" initialLine="79" containingFunctionPresentation="method 'LoadAsync'">
-            <startOffsets>
-              <option value="3181" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3182" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
