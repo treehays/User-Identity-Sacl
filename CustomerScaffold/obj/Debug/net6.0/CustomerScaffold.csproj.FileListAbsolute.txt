@@ -274,3 +274,8 @@ C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\C
 C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\CustomerScaffold.dll
 C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\refint\CustomerScaffold.dll
 C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\CustomerScaffold.pdb
+C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\bin\Debug\net6.0\CustomerScaffold.deps.json
+C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\bin\Debug\net6.0\CustomerScaffold.runtimeconfig.json
+C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\bin\Debug\net6.0\CustomerScaffold.pdb
+C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\CustomerScaffold.genruntimeconfig.cache
+C:\Users\Abdul\source\repos\CustomerScaffold\CustomerScaffold\obj\Debug\net6.0\ref\CustomerScaffold.dll
